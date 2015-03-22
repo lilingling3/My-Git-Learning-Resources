@@ -1,4 +1,4 @@
-# My-Git-Learning-Resources
+﻿# My-Git-Learning-Resources
 
 This repository includes my Git-learning notes and network resources.
 
@@ -9,6 +9,6 @@ Links:
 * [Code School-Try Git-15分钟的Git交互教程](http://try.github.io/levels/1/challenges/1)
 * [简书-多用Git少交税](http://www.jianshu.com/p/8a985c622e61)
 * [廖雪峰-Git教程-很全面](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-
+* [LearnGitBranching-非常棒的应用(右下角可切换中英文)](http://pcottle.github.io/learnGitBranching/)
 
 `2015-3-22 By Winar`
