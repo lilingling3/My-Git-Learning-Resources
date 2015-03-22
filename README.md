@@ -1,8 +1,9 @@
-# My-Git-Learning-Sources
+# My-Git-Learning-Resources
 
-This repository includes my Git-learning notes and network sources.
+This repository includes my Git-learning notes and network resources.
 
 ---
+
 Links:
 * [Segmentfault-写给Git初学者的七个建议](http://segmentfault.com/a/1190000000369293)
 * [Code School-Try Git-15分钟的Git交互教程](http://try.github.io/levels/1/challenges/1)
