@@ -11,5 +11,6 @@ Links:
 * [廖雪峰-Git教程-很全面](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [LearnGitBranching-非常棒的应用(右下角可切换中英文)](http://pcottle.github.io/learnGitBranching/)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
+* [git PRO 电子书]
 
 `2015-3-22 By Winar`
