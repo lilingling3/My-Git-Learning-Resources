@@ -12,5 +12,5 @@ Links:
 * [LearnGitBranching-非常棒的应用(右下角可切换中英文)](http://pcottle.github.io/learnGitBranching/)
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [git PRO 电子书](http://gitbook.liuhui998.com/index.html)
-
+* [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 `2015-3-22 By Winar`
