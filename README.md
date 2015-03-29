@@ -13,6 +13,6 @@ Links:
 * [Git Community Book 中文版](http://gitbook.liuhui998.com/index.html)
 * [git PRO 电子书](http://gitbook.liuhui998.com/index.html)
 * [Git简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* 
+* [Git远程常用操作详解](http://www.qingdou.me/5027.html)
 
 `2015-3-22 By Winar`
