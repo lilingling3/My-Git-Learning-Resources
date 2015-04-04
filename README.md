@@ -16,5 +16,6 @@ Links:
 * [Git远程常用操作详解](http://www.qingdou.me/5027.html)
 * [Git-学习路线图及中文资料推荐](http://blog.sevenche.com/2014/02/Git-学习路线图及中文资料推荐/)
 * [颜海镜-我的Git学习笔记](http://yanhaijing.com/git/2014/11/01/my-git-note/)
+* [沉浸式学 Git ](http://igit.linuxtoy.org/index.html)
 
 `2015-3-22 By Winar`
