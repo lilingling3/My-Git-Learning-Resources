@@ -19,5 +19,5 @@ Links:
 * [沉浸式学 Git ](http://igit.linuxtoy.org/index.html)
 
 ---
-##### [Lisence](LISENCE)
+##### [LICENSE](LICENSE)
 `2015-3-22 By Winar`
