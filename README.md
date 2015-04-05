@@ -18,4 +18,6 @@ Links:
 * [颜海镜-我的Git学习笔记](http://yanhaijing.com/git/2014/11/01/my-git-note/)
 * [沉浸式学 Git ](http://igit.linuxtoy.org/index.html)
 
+---
+##### [Lisence](LISENCE)
 `2015-3-22 By Winar`
