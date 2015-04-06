@@ -1,6 +1,6 @@
 ﻿# My-Git-Learning-Resources
 
-.##This repository includes my Git-learning notes and network resources.
+.## This repository includes my Git-learning notes and network resources.
 
 
 Links:
