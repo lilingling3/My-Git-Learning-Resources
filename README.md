@@ -18,6 +18,7 @@ This repository includes my Git-learning notes and network resources.
 * [颜海镜-我的Git学习笔记](http://yanhaijing.com/git/2014/11/01/my-git-note/)
 * [沉浸式学 Git ](http://igit.linuxtoy.org/index.html)
 * [Git学习-很棒的在线应用](http://pcottle.github.io/learnGitBranching/)
+* [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 
 ##### [LICENSE](LICENSE)
