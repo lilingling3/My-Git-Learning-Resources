@@ -20,6 +20,7 @@ This repository includes my Git-learning notes and network resources.
 * [Git学习-很棒的在线应用](http://pcottle.github.io/learnGitBranching/)
 * [git - 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 * [Git Pro 电子书(中文版)](http://git-scm.com/book/zh/v1/%E8%B5%B7%E6%AD%A5)
+* [Github Guides](https://guides.github.com)
 
 
 ##### [LICENSE](LICENSE)
