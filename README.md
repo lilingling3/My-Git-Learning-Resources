@@ -28,4 +28,4 @@ This repository includes my Git-learning notes and network resources.
 
 
 ##### [LICENSE](LICENSE)
-`2015-3-22 By Winar`
+`2015-3-22 By Winar-Jin`
