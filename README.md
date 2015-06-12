@@ -25,6 +25,7 @@ This repository includes my Git-learning notes and network resources.
 * [Github Training](https://training.github.com/kit/)
 * [git tutorials](https://www.atlassian.com/git/tutorials/)
 * [给 Git 中级用户的 25 个小贴士](http://blog.jobbole.com/83941/)
+* [GotGitHub](http://www.worldhello.net/gotgithub/)
 
 
 ##### [LICENSE](LICENSE)
